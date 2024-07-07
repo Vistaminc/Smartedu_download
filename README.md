@@ -6,8 +6,22 @@
 
 本工具支持 Windows等操作系统
 
+
+## 界面展示
+
+![](https://github.com/Vistaminc/smartedudownload/assets/164725925/dcbdeb85-a21a-4737-81fa-78d66b612972)
+
 ## 使用方法
 
 1. 将电子课本的预览页面网址粘贴到程序窗口的文本框中，点击修改链接；
 2. 点击**修改**链接，工具会解析有效的电子课本 PDF 网址并复制到剪贴板；
 3. 可以选择是否自动打开浏览器
+
+## 工具特点
+
+1.便捷，无需安装任何环境，exe文件双击即可运行
+
+## 赞赏
+
+请我喝杯奶茶
+![7c9245b9e](https://github.com/Vistaminc/smartedudownload/assets/164725925/4fc72792-e019-4bc3-80b4-1bda094940fc)
