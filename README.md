@@ -23,5 +23,5 @@
 
 ## 赞赏
 
-请我喝杯奶茶
+请我喝杯奶茶吧😘
 ![7c9245b9e](https://github.com/Vistaminc/smartedudownload/assets/164725925/4fc72792-e019-4bc3-80b4-1bda094940fc)
